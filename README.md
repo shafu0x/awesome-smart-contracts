@@ -7,7 +7,7 @@ The best smart contracts in one place.
 | Protocol       | Repository                                                              | Documentation                                                              | The Bytecode Episode |
 |----------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------|
 | **Uniswap V2** | https://github.com/Uniswap/uniswap-v2-core                    | [Docs](https://docs.uniswap.org/)                                           | N/A                  |
-| **Sablier V2** | https://github.com/sablier-labs/v2-foundry                    | [Docs](https://docs.sablier.com)                                            | [Youtube](https://www.youtube.com/watch?v=Mh0akz5ybZ8&t=11s&ab_channel=shafu)                  |
+| **Sablier V2** | https://github.com/sablier-labs/v2-core                    | [Docs](https://docs.sablier.com)                                            | [Youtube](https://www.youtube.com/watch?v=Mh0akz5ybZ8&t=11s&ab_channel=shafu)                  |
 | **Aave**       | https://github.com/aave/protocol-v2                           | [Docs](https://docs.aave.com/)                                              | N/A                  |
 | **Compound**   | https://github.com/compound-finance/compound-protocol         | [Docs](https://compound.finance/docs)                                       | N/A                  |
 | **MakerDAO**   | https://github.com/makerdao                                  | [Docs](https://docs.makerdao.com/)                                          | N/A                  |
