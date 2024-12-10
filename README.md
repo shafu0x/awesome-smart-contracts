@@ -22,7 +22,7 @@ The best smart contracts in one place.
 | **Curve**      | https://github.com/curvefi/curve-contract                     | [Docs](https://docs.curve.fi/)                                              | N/A                  |
 | **Ajna**       | https://github.com/ajna-finance/ajna-core                     | [Docs](https://docs.ajna.finance/)                                           | N/A                  |
 | **EigenLayer** | https://github.com/Layr-Labs/eigenlayer-contracts             | [Docs](https://docs.eigenlayer.xyz)                                          | N/A                  |
-
+| **OlympusDAO** | https://github.com/OlympusDAO/olympus-v3                      | [Docs](https://docs.olympusdao.finance/main/technical/overview)              | N/A                  |
 ---
 
 ## Contributing
