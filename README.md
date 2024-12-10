@@ -8,24 +8,24 @@ The best smart contracts in one place.
 
 ## Awesome Projects
 
-| Protocol       | Repository                                                              | Documentation                                                              |
-|----------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| **Uniswap V2** | [GitHub](https://github.com/Uniswap/uniswap-v2-core)                    | [Docs](https://docs.uniswap.org/)                                           |
-| **Aave**       | [GitHub](https://github.com/aave/protocol-v2)                           | [Docs](https://docs.aave.com/)                                              |
-| **Compound**   | [GitHub](https://github.com/compound-finance/compound-protocol)         | [Docs](https://compound.finance/docs)                                       |
-| **MakerDAO**   | [GitHub](https://github.com/makerdao)                                  | [Docs](https://docs.makerdao.com/)                                          |
-| **Synthetix**  | [GitHub](https://github.com/Synthetixio/synthetix)                      | [Docs](https://docs.synthetix.io/)                                          |
-| **Uniswap V3** | [GitHub](https://github.com/Uniswap/v3-core)                            | [Docs](https://docs.uniswap.org/protocol/V3/introduction)                   |
-| **Sablier V2** | [GitHub](https://github.com/sablier-labs/v2-foundry)                    | [Docs](https://docs.sablier.com)                                            |
-| **Maple**      | [GitHub](https://github.com/maple-labs/maple-core-v2)                   | [Docs](https://docs.maple.finance/)                                         |
-| **Solmate**    | [GitHub](https://github.com/transmissions11/solmate)                    | [Docs](https://github.com/transmissions11/solmate#readme)                   |
-| **Art Gobblers**| [GitHub](https://github.com/artgobblers/art-gobblers)                  | [Docs](https://www.paradigm.xyz/2022/09/art-gobblers)                       |
-| **Solady**     | [GitHub](https://github.com/Vectorized/solady)                          | [Docs](https://github.com/Vectorized/solady#readme)                         |
-| **Sparklend**  | [GitHub](https://github.com/sparklend/sparklend-core)                   | [Docs](https://docs.sparklend.com/)                                          |
-| **Seaport**    | [GitHub](https://github.com/ProjectOpenSea/seaport)                     | [Docs](https://docs.opensea.io/v2.0/reference/seaport-overview)             |
-| **Curve**    | [GitHub](https://github.com/curvefi/curve-contract)                     | [Docs](https://docs.curve.fi/)             |
-| **Ajna**       | [GitHub](https://github.com/ajna-finance/ajna-core)                               | [Docs](https://docs.ajna.finance/)                                           |
-| **EigenLayer** | [GitHub](https://github.com/Layr-Labs/eigenlayer-contracts)                                 | [Docs](https://docs.eigenlayer.xyz)                                          |
+| Protocol       | Repository                                                              | Documentation                                                              | The Bytecode Episode |
+|----------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------|
+| **Uniswap V2** | https://github.com/Uniswap/uniswap-v2-core                    | [Docs](https://docs.uniswap.org/)                                           | N/A                  |
+| **Sablier V2** | https://github.com/sablier-labs/v2-foundry                    | [Docs](https://docs.sablier.com)                                            | [Youtube](https://www.youtube.com/watch?v=Mh0akz5ybZ8&t=11s&ab_channel=shafu)                  |
+| **Aave**       | https://github.com/aave/protocol-v2                           | [Docs](https://docs.aave.com/)                                              | N/A                  |
+| **Compound**   | https://github.com/compound-finance/compound-protocol         | [Docs](https://compound.finance/docs)                                       | N/A                  |
+| **MakerDAO**   | https://github.com/makerdao                                  | [Docs](https://docs.makerdao.com/)                                          | N/A                  |
+| **Synthetix**  | https://github.com/Synthetixio/synthetix                      | [Docs](https://docs.synthetix.io/)                                          | N/A                  |
+| **Maple**      | https://github.com/maple-labs/maple-core-v2                   | [Docs](https://docs.maple.finance/)                                         | [Youtube](https://www.youtube.com/watch?v=nG_QTMGVL3U&t=2358s&ab_channel=shafu)                  |
+| **Uniswap V3** | https://github.com/Uniswap/v3-core                            | [Docs](https://docs.uniswap.org/protocol/V3/introduction)                   | N/A                  |
+| **Solmate**    | https://github.com/transmissions11/solmate                    | [Docs](https://github.com/transmissions11/solmate#readme)                   | N/A                  |
+| **Art Gobblers**|(https://github.com/artgobblers/art-gobblers                  | [Docs](https://www.paradigm.xyz/2022/09/art-gobblers)                       | N/A                  |
+| **Solady**     | https://github.com/Vectorized/solady                          | [Docs](https://github.com/Vectorized/solady#readme)                         | N/A                  |
+| **Sparklend**  | https://github.com/sparklend/sparklend-core                   | [Docs](https://docs.sparklend.com/)                                         | N/A                  |
+| **Seaport**    | https://github.com/ProjectOpenSea/seaport                     | [Docs](https://docs.opensea.io/v2.0/reference/seaport-overview)             | [Youtube](https://www.youtube.com/watch?v=mvRrRV_eNLQ&ab_channel=shafu)                  |
+| **Curve**      | https://github.com/curvefi/curve-contract                     | [Docs](https://docs.curve.fi/)                                              | N/A                  |
+| **Ajna**       | https://github.com/ajna-finance/ajna-core                     | [Docs](https://docs.ajna.finance/)                                           | N/A                  |
+| **EigenLayer** | https://github.com/Layr-Labs/eigenlayer-contracts             | [Docs](https://docs.eigenlayer.xyz)                                          | N/A                  |
 
 ---
 
