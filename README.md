@@ -4,10 +4,6 @@
 
 The best smart contracts in one place. 
 
----
-
-## Awesome Projects
-
 | Protocol       | Repository                                                              | Documentation                                                              | The Bytecode Episode |
 |----------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------|
 | **Uniswap V2** | https://github.com/Uniswap/uniswap-v2-core                    | [Docs](https://docs.uniswap.org/)                                           | N/A                  |
