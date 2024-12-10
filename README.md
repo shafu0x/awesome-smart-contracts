@@ -25,7 +25,8 @@ The best smart contracts in one place.
 | **Synthetix**    | https://github.com/Synthetixio/synthetix              | [Docs](https://docs.synthetix.io/)                              | N/A                                                                             |
 | **Uniswap V2**   | https://github.com/Uniswap/uniswap-v2-core            | [Docs](https://docs.uniswap.org/)                               | N/A                                                                             |
 | **Uniswap V3**   | https://github.com/Uniswap/v3-core                    | [Docs](https://docs.uniswap.org/protocol/V3/introduction)       | N/A                                                                             |
-
+| **Ethena**       | https://github.com/ethena-labs/bbp-public-assets      | [Docs](https://docs.ethena.fi/)                                 | N/A      
+                                          
 ---
 
 ## Contributing
