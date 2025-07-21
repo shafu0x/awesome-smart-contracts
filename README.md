@@ -33,4 +33,4 @@ Want to add a protocol you love, or improve this list? Contributions are welcome
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Do whatever you want bro
