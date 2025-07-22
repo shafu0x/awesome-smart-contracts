@@ -24,6 +24,7 @@ The best smart contracts in one place.
 | **Synthetix**    | https://github.com/Synthetixio/synthetix              | [Docs](https://docs.synthetix.io/)                              | N/A                                                                             |
 | **Uniswap V2**   | https://github.com/Uniswap/uniswap-v2-core            | [Docs](https://docs.uniswap.org/)                               | N/A                                                                             |
 | **Uniswap V3**   | https://github.com/Uniswap/v3-core                    | [Docs](https://docs.uniswap.org/protocol/V3/introduction)       | N/A                                                                             |
+| **Yearn V3**   | https://github.com/yearn/yearn-vaults-v3                    | [Docs](https://docs.yearn.fi/developers/v3/overview)       | N/A                                                                             |
 
 ---
 
