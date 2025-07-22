@@ -30,8 +30,8 @@ The best smart contracts in one place.
 
 ## Contributing
 
-Want to add a protocol you love, or improve this list? Contributions are welcome! Please open an issue or submit a pull request. Before contributing, check out our [contribution guidelines](CONTRIBUTING.md) if available.
+open up a pr
 
 ## License
 
-Do whatever you want bro
+do whatever you want bro
