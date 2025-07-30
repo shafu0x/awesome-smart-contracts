@@ -16,6 +16,7 @@ The best smart contracts in one place.
 | **EigenLayer**   | https://github.com/Layr-Labs/eigenlayer-contracts     | [Docs](https://docs.eigenlayer.xyz)                             | N/A                                                                             |
 | **MakerDAO**     | https://github.com/makerdao/dss                       | [Docs](https://docs.makerdao.com/)                              | N/A                                                                             |
 | **Maple**        | https://github.com/maple-labs/maple-core-v2           | [Docs](https://docs.maple.finance/)                             | [Youtube](https://www.youtube.com/watch?v=nG_QTMGVL3U&t=2358s&ab_channel=shafu) |
+| **Merit**        | https://github.com/Merit-Systems/contracts            | [Docs](https://www.merit.systems/docs)                          | [Youtube](https://www.youtube.com/watch?v=-Lqn4mx8eRY&ab_channel=shafu)         |
 | **Sablier V2**   | https://github.com/sablier-labs/v2-core               | [Docs](https://docs.sablier.com)                                | [Youtube](https://www.youtube.com/watch?v=Mh0akz5ybZ8&t=11s&ab_channel=shafu)   |
 | **Seaport**      | https://github.com/ProjectOpenSea/seaport             | [Docs](https://docs.opensea.io/v2.0/reference/seaport-overview) | [Youtube](https://www.youtube.com/watch?v=mvRrRV_eNLQ&ab_channel=shafu)         |
 | **🐍 snekmate**  | https://github.com/pcaversaccio/snekmate              | [Docs](https://github.com/pcaversaccio/snekmate#readme)         | N/A                                                                             |
@@ -24,13 +25,14 @@ The best smart contracts in one place.
 | **Synthetix**    | https://github.com/Synthetixio/synthetix              | [Docs](https://docs.synthetix.io/)                              | N/A                                                                             |
 | **Uniswap V2**   | https://github.com/Uniswap/uniswap-v2-core            | [Docs](https://docs.uniswap.org/)                               | N/A                                                                             |
 | **Uniswap V3**   | https://github.com/Uniswap/v3-core                    | [Docs](https://docs.uniswap.org/protocol/V3/introduction)       | N/A                                                                             |
+| **Uniswap V4**   | https://github.com/Uniswap/v4-core                    | [Docs](https://docs.uniswap.org/contracts/v4/overview)          | N/A                                                                             |
 
 ---
 
 ## Contributing
 
-Want to add a protocol you love, or improve this list? Contributions are welcome! Please open an issue or submit a pull request. Before contributing, check out our [contribution guidelines](CONTRIBUTING.md) if available.
+create a PR!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+do whatever you want bro
